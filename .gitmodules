@@ -1,0 +1,3 @@
+[submodule "ReplayStudio"]
+	path = ReplayStudio
+	url = https://github.com/ReplayMod/ReplayStudio
